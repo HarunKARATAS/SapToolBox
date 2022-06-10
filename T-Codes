@@ -1,0 +1,20 @@
+T-Codes
+
+Sm04 --> Active Users --> Aktif SAP'deki kullanıcılar
+OMSF --> New Product Group Def. --> Yeni Mal Grubu Tanımlama
+Se09 --> Request Release
+Se37 --> RFC Functions --> RFC fonksiyonları
+ME5A --> Recent Purcahe Order List --> Son Satınalma Talepleri
+RT_LOG --> Web Service Logs --> Web servis logları
+PSV1 --> Education Catalogs --> Eğitim Katalog
+SOST --> Sent Mails --> Gönderilen mailler
+MASS --> Mass Changes --> Toplu değişiklik
+Sm12 --> Lock Logs --> Kilitlenmiş kaydın kilit kaydını silme tcode u
+SLG1 --> System Error Logs -->SAP Sistem hata logları
+KEDR --> CO-PA Maintenance --> COPA Bakımı
+FBN1 --> FI Maintenance --> FI Bakımı
+SE37 --> TH_POPUP --> User spesific message sending --> Kullanıcı özelinde Mesaj Gönderme https://itsiti.com/send-message-to-a-specific-user-in-sap
+SM02 --> General (All System) Message Sending --> Bütün sisteme mesaj gönderme https://itsiti.com/sm02-system-messages
+SM20 --> User Logs --> Kullanıcı loglarını okuduğumuz ekran
+SM04 --> tick the user -> click sessions -> click on the active session -> click on "End session" --> Kick user out of the system --> SAP Kullanıcıyı sistemden atma
+SPRO --> Magical UI :)
