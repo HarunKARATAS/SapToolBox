@@ -18,3 +18,9 @@ SM02 --> General (All System) Message Sending --> Bütün sisteme mesaj gönderm
 SM20 --> User Logs --> Kullanıcı loglarını okuduğumuz ekran
 SM04 --> tick the user -> click sessions -> click on the active session -> click on "End session" --> Kick user out of the system --> SAP Kullanıcıyı sistemden atma
 SPRO --> Magical UI :)
+Se38 --> SALV_BS_ADMIN_MAINTAIN programı çalıştırılır, User Spesific'e gelip ilgili kullanıcı seçilip düzenleme yapılır. Kullanıcı rapor çıktı biçimini değiştirmek için
+SE91 --> Message Classes Maint. --> Message Class'ların bakımı 
+SM66 --> Process Managing --> Süreç İzleme (SM12 yerine kullanılacak.)
+MDBT --> MİP Planning --> MİP Planlama
+MD03 --> MRP JOB Monitoring --> MRP Job Çalışma ekranı
+
