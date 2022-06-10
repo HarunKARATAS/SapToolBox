@@ -5,7 +5,7 @@ OMSF --> New Product Group Def. --> Yeni Mal Grubu Tanımlama
 Se09 --> Request Release
 Se37 --> RFC Functions --> RFC fonksiyonları
 ME5A --> Recent Purcahe Order List --> Son Satınalma Talepleri
-RT_LOG --> Web Service Logs --> Web servis logları
+SRT_LOG --> Web Service Logs --> Web servis logları
 PSV1 --> Education Catalogs --> Eğitim Katalog
 SOST --> Sent Mails --> Gönderilen mailler
 MASS --> Mass Changes --> Toplu değişiklik
