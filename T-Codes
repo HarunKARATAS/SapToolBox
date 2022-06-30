@@ -23,4 +23,6 @@ SE91 --> Message Classes Maint. --> Message Class'ların bakımı
 SM66 --> Process Managing --> Süreç İzleme (SM12 yerine kullanılacak.)
 MDBT --> MİP Planning --> MİP Planlama
 MD03 --> MRP JOB Monitoring --> MRP Job Çalışma ekranı
-
+MD04 --> Stock/requirements List --> Güncel Stok Listesi
+SM66 --> Process Overview --> Süreç İzleme
+SE91 --> Message Classes Maint. --> Mesaj Sınıflarının bakımı
