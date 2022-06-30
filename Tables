@@ -1,0 +1,9 @@
+T005S --> Country & City Table --> Ülke-Şehir Tablosu
+HRP1001 --> Edu. Relation Table --> Eğitim İlişki Tablosu
+HRP1000 --> Edu. Definition Table -->Eğitim Tanım tablosu 
+Pa0105 --> Employee Contact Informations --> Personel İletişim Bilgileri
+CDHDR --> Order Audit --> Sipariş Geçmişi {
+  OBJECTCLAS = VERKBELEG
+	OBJECTID alanı 10 hane olacak şekilde sipariş numarası
+}
+TSTCT, UST04, UST10S, UST12 --> SAP Auth. Matrix --> SAP Yetki Matrisi için kullanılan tablolar.
